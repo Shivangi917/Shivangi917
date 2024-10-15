@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN STACK<br>🌱 I’m currently learning MACHINE LEARNING<br>💬 Ask me about web development🤝Looking to collaborate on Real-World Projects
+🔭 I’m currently working on MERN STACK<br>🌱 I’m currently learning MACHINE LEARNING<br>💬 Ask me about web development
+🤝Looking to collaborate on Real-World Projects
 
 
 ## 🌐 Socials:
